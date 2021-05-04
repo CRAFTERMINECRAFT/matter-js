@@ -33,6 +33,7 @@ Example.views = function() {
     Render.run(render);
 
     // create runner
+    //me
     var runner = Runner.create();
     Runner.run(runner, engine);
 
